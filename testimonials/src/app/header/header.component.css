@@ -1,0 +1,11 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    /* box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+    box-shadow: 0 6px 6px 0 rgba(0, 0, 0, 0.19);
+}
+
+nav > img{
+    width: 390px;
+    height: 80px;
+}
